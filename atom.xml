@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ihouzi.com/</id>
     <title>Adam</title>
-    <updated>2020-01-02T09:32:34.262Z</updated>
+    <updated>2020-01-02T09:34:52.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ihouzi.com/"/>
     <link rel="self" href="http://ihouzi.com/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>http://ihouzi.com/images/avatar.png</logo>
     <icon>http://ihouzi.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Adam</rights>
+    <entry>
+        <title type="html"><![CDATA[新年快乐！]]></title>
+        <id>http://ihouzi.com/happy2020</id>
+        <link href="http://ihouzi.com/happy2020">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://ihouzi.com//post-images/1577957624460.jpg" alt="" loading="lazy"></figure>
+<p>新年快乐！🤠</p>
+]]></content>
+    </entry>
 </feed>
